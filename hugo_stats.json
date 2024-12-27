@@ -48,6 +48,7 @@
     ],
     "classes": [
       "DocSearch-Label",
+      "about",
       "active",
       "anchor",
       "bg-dots",
@@ -94,6 +95,7 @@
       "docs-sidebar",
       "docs-toc",
       "doks-sidebar",
+      "download",
       "error404",
       "flex-column",
       "flex-grow-1",
