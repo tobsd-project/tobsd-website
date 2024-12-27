@@ -12,3 +12,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+## How is it pronounced?
+It's pronounced "Toe BSD".
